@@ -15,8 +15,8 @@ https://t.me/toneachat
 课件地址：https://ton-org.notion.site/Tolk-2385274bd2cf80db9deac2717ac17bf1
 
 领奖信息收集：
-1. 你的 Telegram 用户名 = ？
-2. 你的主网 TON 钱包地址 = ？
+1. 你的 Telegram 用户名 = @WorkSaveTravelRepeat
+2. 你的主网 TON 钱包地址 = UQB33XTZtteUv4k6XksMYKWkAhWZY26MLf3xz29KRDa6lnmP
 
 
 ## 任务 1：通过 API 调用合约的 get 方法
@@ -26,7 +26,16 @@ https://t.me/toneachat
 
 ### 你的答案：
 
-1. 将你的 get 方法调用代码提交到本项目的根目录，文件名为 = ?
+1. 将你的 get 方法调用代码提交到本项目的根目录，文件名为 =
+import requests
+
+wallet_address = "0:76bdbe2be02806a345d7c9f086e472d2b3b9734317acc6bc4f3761528583e650"
+
+url = f"https://tonapi.io/v2/accounts/{wallet_address}/methods/get_public_key"
+
+resp = requests.get(url)
+print(resp.json())
+
 
 
 ---
@@ -39,7 +48,15 @@ https://t.me/toneachat
 
 ### 你的答案：
 
-1. 将你的 NFT 查询代码提交到本项目的根目录，文件名为 = ?
+1. 将你的 NFT 查询代码提交到本项目的根目录，文件名为 = 
+import requests
+
+collection_address = "0:b3358165102319dc590f09d22dfafd3d7a2a826249eba06c869b874bfbe2d9d2"
+
+url = f"https://tonapi.io/v2/nft/collections/{collection_address}"
+
+resp = requests.get(url)
+print(resp.json())
 
 ---
 
