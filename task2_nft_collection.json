@@ -1,0 +1,39 @@
+{
+  "address": "0:39496976256b979a614b83cbed271b47a34a0795816a8a6953f49c35ef9b59a3",
+  "next_item_index": 4,
+  "owner": {
+    "address": "0:b7976b8a2af67fa5c4f144054a0732f466f88a38ea95945ca4053682b2acf040",
+    "name": "jun12345678.ton",
+    "is_scam": false,
+    "is_wallet": true
+  },
+  "raw_collection_content": "b5ee9c7201010101004000007c0168747470733a2f2f732e67657467656d732e696f2f6e66742f632f3636323233313462313139386438646365323535376332302f6d6574612e6a736f6e",
+  "metadata": {
+    "social_links": [],
+    "name": "NBA",
+    "image": "https://s.getgems.io/nft/c/6622314b1198d8dce2557c20/avatar/683674.jpg",
+    "cover_image": "https://s.getgems.io/nft/c/6622314b1198d8dce2557c20/cover/683668.jpg",
+    "description": "NBA",
+    "marketplace": "getgems.io",
+    "external_url": "https://getgems.io/collection/EQA5SWl2JWuXmmFLg8vtJxtHo0oHlYFqimlT9Jw175tZoy8-"
+  },
+  "previews": [
+    {
+      "resolution": "5x5",
+      "url": "https://cache.tonapi.io/imgproxy/jcLrwSbmHaEeLV_4ixLJ4ZQ99SuqggOfyfWI1HuTpYU/rs:fill:5:5:1/g:no/aHR0cHM6Ly9zLmdldGdlbXMuaW8vbmZ0L2MvNjYyMjMxNGIxMTk4ZDhkY2UyNTU3YzIwL2F2YXRhci82ODM2NzQuanBn.webp"
+    },
+    {
+      "resolution": "100x100",
+      "url": "https://cache.tonapi.io/imgproxy/4JrfHnaZZd6n_FlCKeDPP9wVMeOLubTnTwC7LOGKQo8/rs:fill:100:100:1/g:no/aHR0cHM6Ly9zLmdldGdlbXMuaW8vbmZ0L2MvNjYyMjMxNGIxMTk4ZDhkY2UyNTU3YzIwL2F2YXRhci82ODM2NzQuanBn.webp"
+    },
+    {
+      "resolution": "500x500",
+      "url": "https://cache.tonapi.io/imgproxy/NXjk2D80212USmeQ_PTK5zx2wup31voPd9KjJG5Nwms/rs:fill:500:500:1/g:no/aHR0cHM6Ly9zLmdldGdlbXMuaW8vbmZ0L2MvNjYyMjMxNGIxMTk4ZDhkY2UyNTU3YzIwL2F2YXRhci82ODM2NzQuanBn.webp"
+    },
+    {
+      "resolution": "1500x1500",
+      "url": "https://cache.tonapi.io/imgproxy/3dUcYV3g8vmsVsPiYMAO3BVTxJHO2VPodOxuzjzHAFE/rs:fill:1500:1500:1/g:no/aHR0cHM6Ly9zLmdldGdlbXMuaW8vbmZ0L2MvNjYyMjMxNGIxMTk4ZDhkY2UyNTU3YzIwL2F2YXRhci82ODM2NzQuanBn.webp"
+    }
+  ],
+  "approved_by": []
+}
