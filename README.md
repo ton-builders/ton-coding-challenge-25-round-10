@@ -15,8 +15,8 @@ https://t.me/toneachat
 课件地址：https://ton-org.notion.site/Tolk-2385274bd2cf80db9deac2717ac17bf1
 
 领奖信息收集：
-1. 你的 Telegram 用户名 = ？
-2. 你的主网 TON 钱包地址 = ？
+1. 你的 Telegram 用户名 = @MintyPastry
+2. 你的主网 TON 钱包地址 = UQCePjtywUa4tsN8hLR-p4WjO-Do0J0KuXAvJuXkkLFUZn5j
 
 
 ## 任务 1：通过 API 调用合约的 get 方法
@@ -26,7 +26,7 @@ https://t.me/toneachat
 
 ### 你的答案：
 
-1. 将你的 get 方法调用代码提交到本项目的根目录，文件名为 = ?
+1. 将你的 get 方法调用代码提交到本项目的根目录，文件名为 = {"success":true,"exit_code":0,"stack":[{"type":"num","num":"0x991b08c67cc88d9b8eacb191def76e09141dc925c00c3a3d80d7dedbe0d98604"}],"decoded":{"public_key":"69251631269170215167834855951612980139953238072593544553706011863390346642948"}}
 
 
 ---
@@ -39,7 +39,7 @@ https://t.me/toneachat
 
 ### 你的答案：
 
-1. 将你的 NFT 查询代码提交到本项目的根目录，文件名为 = ?
+1. 将你的 NFT 查询代码提交到本项目的根目录，文件名为 = {"address":"0:eb8fb7eca21af7e12913df13be860810c91711babb258551347760a5ecf91925","next_item_index":7,"owner":{"address":"0:cc75b17f9476c8008099c3e532bcfda61b02e575af9f48b6658755a22896b5a6","is_scam":false,"is_wallet":true},"raw_collection_content":"b5ee9c7201010101004000007c0168747470733a2f2f732e67657467656d732e696f2f6e66742f632f3633666239363334633465633964353031303965393665382f6d6574612e6a736f6e","metadata":{"image":"https://s.getgems.io/nft/c/63fb9634c4ec9d50109e96e8/avatar/63fb959eb6d78bceec02ce6a.jpg","cover_image":"https://s.getgems.io/nft/c/63fb9634c4ec9d50109e96e8/cover/63fb9593b0c782dc1aad55b4.jpg","description":"One King\nOne Owner\nOne Durov","marketplace":"getgems.io","external_url":"https://getgems.io/collection/EQDrj7fsohr34SkT3xO-hggQyRcRurslhVE0d2Cl7PkZJQ7x","social_links":[],"name":"CyberTon"}}
 
 ---
 
