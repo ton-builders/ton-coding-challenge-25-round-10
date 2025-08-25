@@ -15,8 +15,8 @@ https://t.me/toneachat
 课件地址：https://ton-org.notion.site/Tolk-2385274bd2cf80db9deac2717ac17bf1
 
 领奖信息收集：
-1. 你的 Telegram 用户名 = ？
-2. 你的主网 TON 钱包地址 = ？
+1. 你的 Telegram 用户名 = alexbetok
+2. 你的主网 TON 钱包地址 = UQDQz_6owYVzX_EuSZaK3aVocYh-6eWiGwFT_FoKnSlm-bFb
 
 
 ## 任务 1：通过 API 调用合约的 get 方法
@@ -26,7 +26,7 @@ https://t.me/toneachat
 
 ### 你的答案：
 
-1. 将你的 get 方法调用代码提交到本项目的根目录，文件名为 = ?
+1. 将你的 get 方法调用代码提交到本项目的根目录，文件名为 = get.py
 
 
 ---
@@ -39,7 +39,7 @@ https://t.me/toneachat
 
 ### 你的答案：
 
-1. 将你的 NFT 查询代码提交到本项目的根目录，文件名为 = ?
+1. 将你的 NFT 查询代码提交到本项目的根目录，文件名为 = get_nft.py
 
 ---
 
